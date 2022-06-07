@@ -1,0 +1,15 @@
+C:\Users\luca_\code\dotnet\pro-1\bin\Debug\net6.0\pro-1.exe
+C:\Users\luca_\code\dotnet\pro-1\bin\Debug\net6.0\pro-1.deps.json
+C:\Users\luca_\code\dotnet\pro-1\bin\Debug\net6.0\pro-1.runtimeconfig.json
+C:\Users\luca_\code\dotnet\pro-1\bin\Debug\net6.0\pro-1.dll
+C:\Users\luca_\code\dotnet\pro-1\bin\Debug\net6.0\pro-1.pdb
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.csproj.AssemblyReference.cache
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.AssemblyInfoInputs.cache
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.AssemblyInfo.cs
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.csproj.CoreCompileInputs.cache
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.dll
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\refint\pro-1.dll
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.pdb
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\pro-1.genruntimeconfig.cache
+C:\Users\luca_\code\dotnet\pro-1\obj\Debug\net6.0\ref\pro-1.dll
